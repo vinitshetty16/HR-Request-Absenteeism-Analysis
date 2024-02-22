@@ -1,4 +1,5 @@
 # HR-Request-Absenteeism-Analysis
+![HR_Wallpaper](https://github.com/vinitshetty16/HR-Request-Absenteeism-Analysis/assets/63487624/f7d4e220-e613-4c44-ad44-1449ef4b2d09)
 
 ## Problem Statement
 A company wants to optimize its employee benefits program and better manage its resources. They have provided a dataset containing employee information, including health status, absenteeism records, and smoking habits. The company has allocated specific budgets for different initiatives, such as a healthy bonus program and an insurance budget for non-smokers. Additionally, they require a dashboard for HR to visualize absenteeism data based on an approved wireframe.
