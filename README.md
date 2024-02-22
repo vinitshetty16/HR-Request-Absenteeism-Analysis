@@ -20,6 +20,8 @@ A company wants to optimize its employee benefits program and better manage its 
 - **Metrics Incorporation**: Integrate relevant metrics including absenteeism rates, reasons for absenteeism and trends over time to provide comprehensive insights.
 - **Actionable Insights**: Ensure the dashboard provides actionable insights enabling HR to understand and address absenteeism issues proactively.
 
-You can access the solutions [here](https://github.com/vinitshetty16/HR-Request-Absenteeism-Analysis/blob/main/Absenteeism_Solutions.sql).
+You can access the SQL solutions [here](https://github.com/vinitshetty16/HR-Request-Absenteeism-Analysis/blob/main/Absenteeism_Solutions.sql).
+
+Please click [here](https://github.com/vinitshetty16/HR-Request-Absenteeism-Analysis/blob/main/HR_Absenteeism_Analysis_Dashboard.jpg) to view the PowerBI Dashboard.
 
 This README serves as a guide to address key queries and requirements regarding our employee benefits optimization initiative. It outlines specific tasks to be undertaken to achieve the company's objectives efficiently.
